@@ -1,0 +1,12 @@
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.csprojAssemblyReference.cache
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.UIForms.AddRecordForm.resources
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.UIForms.ListRecordForm.resources
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.UIForms.LoginForm.resources
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.Properties.Resources.resources
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.csproj.GenerateResource.cache
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.csproj.CoreCompileInputs.cache
+Z:\School\rca-master\RecordCollectionAssistant\bin\Debug\RecordCollectionAssistant.exe
+Z:\School\rca-master\RecordCollectionAssistant\bin\Debug\RecordCollectionAssistant.pdb
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.UIForms.PreviewListForm.resources
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.exe
+Z:\School\rca-master\RecordCollectionAssistant\obj\Debug\RecordCollectionAssistant.pdb
